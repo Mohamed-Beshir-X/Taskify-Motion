@@ -45,7 +45,7 @@ A clean and interactive **to-do list app** built with **Vanilla JavaScript**, de
 
 ---
 ## How To Open ?!
-To run the app, simply open the `index.html` file in your browser.
+ To run the app, simply open the `index.html` file in your browser.
 ---
 ## 🧑‍💻 Developer
 **Mohamed Beshir**  
