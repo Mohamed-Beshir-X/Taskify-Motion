@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Taskify Motion</title>
+</head>
+<body>
+    <div class="container">
+        <div class="input">
+            <input type="text" class="wr" placeholder="What do you want to do?">
+            <input type="submit" value="add">
+        </div>
+        <div class="tasks">
+            <div class="no-tasks">
+                <p>There is no tasks to show</p>
+            </div>
+            <div class="controlers">
+                <span class="delete-all">Delete All</span>
+                <span class="complete-all">Complete All</span>
+            </div>
+        </div>
+        <div class="count-box">
+            <div class="tasks-num">
+                Tasks <span>0</span>
+            </div>
+            <div class="tasks-completed">
+                Completed <span>0</span>
+            </div>
+        </div>
+        <div class="error one">
+            <span>Error</span>
+            <button>x</button>
+            <p>Sorry, You must write in the input before adding</p>
+        </div>
+        <div class="error two">
+            <span>Error</span>
+            <button>x</button>
+            <p>This task is in your list</p>
+        </div>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
