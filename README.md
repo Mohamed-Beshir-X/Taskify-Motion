@@ -5,7 +5,7 @@ A clean and interactive **to-do list app** built with **Vanilla JavaScript**, de
 
 ---
 
-**Level:** 🟢 Simple
+**Level:** 🟢 Intermediate
 
 ---
 
